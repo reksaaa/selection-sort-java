@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-       int[] angkaAcak = {20, 35, -15, 7, 55, 1, -22};
+       int[] angkaAcak = {20, 35, -15, 7, 55, 1, -22, 80, -80};
 
        for (int lastIndex = angkaAcak.length - 1; lastIndex > 0;
             lastIndex--){
